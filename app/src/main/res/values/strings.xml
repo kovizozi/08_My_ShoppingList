@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">08_My_ShoppingList</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_new_item">Add new item</string>
+    <string name="delet_all_item">Delet all item</string>
+    <string name="shopping_db_name">sItems2.db</string>
+    <string name="except_dialog">The activity not implementing the NewItemDialogHandler!</string>
+    <string name="editItem">Edit item</string>
+    <string name="addNewITem">Add new item</string>
+    <string name="canNotBeEmpty">This Field can not be empty</string>
+    <string name="newitemTAG">TAG_NEW_ITEM_DIALOG</string>
+    <string-array name="categoriesDemo">
+        <item>Category</item>
+        <item>Food</item>
+        <item>Book</item>
+        <item>Electronic</item>
+        <item>Clothes</item>
+
+
+    </string-array>
+</resources>
