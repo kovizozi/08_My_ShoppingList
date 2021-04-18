@@ -9,6 +9,9 @@
     <string name="addNewITem">Add new item</string>
     <string name="canNotBeEmpty">This Field can not be empty</string>
     <string name="newitemTAG">TAG_NEW_ITEM_DIALOG</string>
+    <string name="webclient_id">159922635393-f01gel565na3ohg46sott6p14npelm5v.apps.googleusercontent.com</string>
+
+
     <string-array name="categoriesDemo">
         <item>Category</item>
         <item>Food</item>
