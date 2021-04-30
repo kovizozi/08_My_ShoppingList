@@ -58,7 +58,7 @@ private lateinit var binding: ActivityScrollingBinding
             }
 
         }.start()
-    }
+    }//
 
     var editIndex = -1
 
